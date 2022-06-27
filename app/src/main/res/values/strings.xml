@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notification Test</string>
+    <string name="delay_1_min">1 min</string>
+    <string name="delay_5_min">5 min</string>
+    <string name="delay_15_min">15 min</string>
+    <string name="delay_30_min">30 min</string>
+    <string name="dialog_timepicker_invalid_time_label">invalid time</string>
+</resources>
